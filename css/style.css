@@ -1,0 +1,24 @@
+.myimg{
+    height: 3vh;
+}
+
+.t-center{
+    text-align: center;
+}
+
+.fl-right{
+    float: right;
+}
+
+.no-visibile{
+    visibility: hidden;
+}
+
+#URLbuttton{
+    display: block;
+}
+
+.myborder{
+    border: 2px solid yellow;
+    border-radius: 7px;
+}
